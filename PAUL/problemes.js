@@ -38,3 +38,14 @@
 
 // console.log ( "La longitud de la circumferència és de: " + longitud +"metres.");
 // console.log ( "L'àrea de la circumferència és de: " + area + "metres."); 
+
+
+// 12.4.- Escriu un programa en JavaScript que calculi el sou mensual a partir del nombre
+// d’hores treballades (160 hores) i el preu per hora treballada (12€). Prova amb altres valors.
+
+let hores = Number(prompt ("Introdueix les hores treballades: "));
+let preuHora = Number (prompt ("Introdueix el preu per hora (€): "));
+
+let sou = hores * preuHora;
+
+console.log ("El sou mensual és: " + sou + "€.");
