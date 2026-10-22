@@ -29,12 +29,12 @@
 // constant per guardar el número pi (3,141593) a) Longitud de la circumferència: 2 * 3.1416 *
 // ràdio b) Àrea del cercle: 3.1416 * radio^2  
 
-const PI = 3.141593;
+// const PI = 3.141593;
 
-let radi = Number(prompt ("Introdueix el radi de la circumferència: "));
+// let radi = Number(prompt ("Introdueix el radi de la circumferència: "));
 
-let longitud = 2 * PI * radi;
-let area = PI * radi **2;
+// let longitud = 2 * PI * radi;
+// let area = PI * radi **2;
 
-console.log ( "La longitud de la circumferència és de: " + longitud +"metres.");
-console.log ( "L'àrea de la circumferència és de: " + area + "metres."); 
+// console.log ( "La longitud de la circumferència és de: " + longitud +"metres.");
+// console.log ( "L'àrea de la circumferència és de: " + area + "metres."); 
