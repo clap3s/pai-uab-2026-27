@@ -43,9 +43,9 @@
 // 12.4.- Escriu un programa en JavaScript que calculi el sou mensual a partir del nombre
 // d’hores treballades (160 hores) i el preu per hora treballada (12€). Prova amb altres valors.
 
-let hores = Number(prompt ("Introdueix les hores treballades: "));
-let preuHora = Number (prompt ("Introdueix el preu per hora (€): "));
+// let hores = Number(prompt ("Introdueix les hores treballades: "));
+// let preuHora = Number (prompt ("Introdueix el preu per hora (€): "));
 
-let sou = hores * preuHora;
+// let sou = hores * preuHora;
 
-console.log ("El sou mensual és: " + sou + "€.");
+// console.log ("El sou mensual és: " + sou + "€.");
