@@ -49,3 +49,19 @@
 // let sou = hores * preuHora;
 
 // console.log ("El sou mensual és: " + sou + "€.");
+
+
+//12.5.- Fes un programa en JavaScript que, donades dues variables x i y, intercanviï els seus
+//valores de manera que x acabi tenint el valor de y i y acabi tenint el valor de x. Així, si
+//inicialment tenim: let x = "Hola", y = 3; Quan el programa acabi, x haurà de guardar un 3 i y
+//un “Hola”. 
+
+//let x = "Hola";
+//let y = 3;
+
+//let temporal = x;
+//x = y;
+//y = temporal;
+
+//console.log("x =", x);
+//console.log("y =", y);
